@@ -428,7 +428,6 @@ I'm currently open to:
 **Full-Stack + AI Engineer**
 
 ---
-
 # 📊 GitHub Activity
 
 <div align="center">
@@ -436,14 +435,6 @@ I'm currently open to:
 <img src="https://github-readme-stats.vercel.app/api?username=JAVERIA-TECH&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="165"/>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JAVERIA-TECH&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=JAVERIA-TECH&theme=tokyo-night&hide_border=true" width="95%"/>
 
 </div>
 
